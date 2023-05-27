@@ -19,3 +19,6 @@ wjcatAdmin/.idea
 
 wjcatAdmin/wjcatAdmin/settings.py
 wjcatAdmin/myAdmin/dist*
+*.pyc
+*.pyc
+Dockerfile

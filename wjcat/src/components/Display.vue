@@ -47,7 +47,7 @@
        <el-button type="primary" style="margin: 5px;" @click="submit" :loading="submitLoading">{{submitText}}</el-button>
 
       <div class="bottom">
-        <el-link type="info" href="/index">问卷喵&nbsp;提供技术支持</el-link>
+        <el-link type="info" href="/index">SUNNY&nbsp;提供技术支持</el-link>
       </div>
     </div>
   </div>

@@ -50,9 +50,9 @@
       <p class="b">(十二)广告类：广告、刷单、借贷名义实行诈骗</p>
     </div>
     <el-footer class="bottom">
-      <p>Copyright © 2019 WjCat. All rights reserved.</p>
-      <p>问卷喵交流群：850804401</p>
-      <p>豫ICP备17008007号-2</p>
+      <p>Copyright © 2023 SUNNY. All rights reserved.</p>
+      <!-- <p>SUNNY交流群：850804401</p> -->
+      <!-- <p>豫ICP备17008007号-2</p> -->
     </el-footer>
   </div>
 </template>
